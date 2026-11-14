@@ -97,8 +97,4 @@ Full-stack platform for timed MCQ and coding exams with student/teacher roles, J
 <a href="https://leetcode.com/u/Anshu_28-22/">
   <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0A101F" alt="LeetCode" />
 </a>
-&nbsp;&nbsp;
-<a href="mailto:anshukumari889900@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-</a>
 </div>
