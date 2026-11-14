@@ -22,18 +22,23 @@
 <h3 align="center">⭐ Selected Work</h3>
 
 <p align="center">
-  <i>Two projects I'm currently most invested in. More are in my <a href="https://github.com/Anshu811?tab=repositories">repositories</a>.</i>
+  <i>A few projects I'm currently most invested in. More are in my <a href="https://github.com/Anshu811?tab=repositories">repositories</a>.</i>
 </p>
 
-### 🛰️ HawkEye: Active Learning for Post-Disaster Damage Assessment
+### 🛰️ [HawkEye](https://github.com/Anshu811/HawkEye): Active Learning for Post-Disaster Damage Assessment
 `Python` `PyTorch` `OpenCV` `ViT` `DINOv2`
 
 Research project on classifying building damage from pre/post-disaster imagery (xBD, 850K+ building annotations) under haze, smoke, blur, and low light. Uses a Siamese Vision Transformer with imbalance-aware losses, and an active-learning method to cut labeling effort. Paper in progress.
 
-### 🎓 ProctoX: Online Exam & Proctoring Platform
+### ⚙️ [TELIPORT Predictive Maintenance](https://github.com/Anshu811/teliport-predictive-maintenance): Self-Healing Pipeline on NASA C-MAPSS
+`Python` `MLflow` `Streamlit`
+
+Self-healing predictive maintenance pipeline with RUL prediction (90% range), anomaly detection, a rule-based triage agent, MLflow retraining, and a Streamlit dashboard. Built for TELIPORT Season 4 (Case Study 1) with Team Innovatrix.
+
+### 🎓 [ProctoX](https://github.com/Anshu811/proctox): Online Exam & Proctoring Platform
 `React` `Node.js` `PostgreSQL` `JWT` `Judge0`
 
-Full-stack platform for timed MCQ and coding exams with student/teacher roles, Judge0 code execution, and tab-switch proctoring. [View repo](https://github.com/Anshu811/proctox)
+Full-stack platform for timed MCQ and coding exams with student/teacher roles, Judge0 code execution, and tab-switch proctoring.
 
 <br/>
 
