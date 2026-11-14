@@ -9,6 +9,7 @@ jobs:
   generate:
     permissions:
       contents: write
+      actions: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -27,3 +28,5 @@ jobs:
           commit_message: "Update snake animation [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Keep workflow alive
+        uses: gautamkrishnar/keepalive-workflow@v2
