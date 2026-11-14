@@ -1,12 +1,6 @@
-<h1 align="center">Hi, I'm Anshu Kumari 👋</h1>
-
-<p align="center">
-  Computer Science (AI) undergrad @ KIET · AWS Certified Solutions Architect
-</p>
-
-<p align="center">
-  I work on deep learning and computer vision, and I build web platforms with React, Node.js, and PostgreSQL.
-</p>
+<div align="center">
+  <img alt="Anshu Kumari" width="100%" src="https://raw.githubusercontent.com/Anshu811/Anshu811/main/dark.svg">
+</div>
 
 <br/>
 
